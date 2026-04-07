@@ -1,0 +1,2 @@
+#DISPLAY SIMPLE INTREST AND COMPOUNDS INTREST
+P=int(input("enter priciple"))

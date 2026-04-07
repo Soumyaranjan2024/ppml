@@ -1,0 +1,1 @@
+l1=list(eval(input("Enter the list:"))
